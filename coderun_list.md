@@ -6,3 +6,5 @@
 Количество разных чисел [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/62py.md)  
 
 Пересечение множеств [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/61py.md)  
+
+Самый дешёвый путь [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/2py.md)  
