@@ -5,6 +5,8 @@
 
 Количество разных чисел [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/62py.md)  
 
+Обход [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Dpy.md)  
+
 Пересечение множеств [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/61py.md)  
 
 Самый дешёвый путь [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/2py.md)  
