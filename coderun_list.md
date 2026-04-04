@@ -13,4 +13,6 @@
 Пересечение множеств [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/61py.md)  
 
 Самый дешёвый путь [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/2py.md)  
+Средний элемент [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/1py.md#средний-элемент)  
+
 Ход конём [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/4py.md)  
