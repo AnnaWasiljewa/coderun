@@ -12,3 +12,4 @@
 Пересечение множеств [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/61py.md)  
 
 Самый дешёвый путь [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/2py.md)  
+Ход конём [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/4py.md)  
