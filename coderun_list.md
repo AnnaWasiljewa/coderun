@@ -7,7 +7,7 @@
 
 Глубина добавляемых элементов [Python](https://github.com/AnnaWasiljewa/algo_trains/blob/main/18Bpy.md)  
 
-Забывчивый курьер [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/204py.md)  
+Забывчивый курьер [C++](https://github.com/AnnaWasiljewa/coderun/blob/main/204.md) [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/204py.md)  
 
 Количество разных чисел [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/62py.md)  
 
