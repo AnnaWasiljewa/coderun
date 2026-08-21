@@ -15,7 +15,7 @@
 
 Пересечение множеств [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/61py.md)  
 Полиглоты [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/68py.md)  
-Проверка палиндрома [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/289py.md)
+Проверка палиндрома [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/289py.md)  
 Простая подсказка [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/284py.md)
 
 Самый дешёвый путь [Python](https://github.com/AnnaWasiljewa/coderun/blob/main/2py.md)  
